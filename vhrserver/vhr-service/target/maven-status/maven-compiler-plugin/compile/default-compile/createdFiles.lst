@@ -1,0 +1,16 @@
+org\javaboy\vhr\service\DepartmentService.class
+org\javaboy\vhr\task\MailSendTask.class
+org\javaboy\vhr\service\SalaryService.class
+org\javaboy\vhr\utils\POIUtils$1.class
+org\javaboy\vhr\service\MenuService.class
+org\javaboy\vhr\service\PoliticsstatusService.class
+org\javaboy\vhr\service\PositionService.class
+org\javaboy\vhr\service\HrService.class
+org\javaboy\vhr\service\JobLevelService.class
+org\javaboy\vhr\service\EmployeeService.class
+org\javaboy\vhr\config\RabbitConfig.class
+org\javaboy\vhr\service\NationService.class
+org\javaboy\vhr\utils\POIUtils.class
+org\javaboy\vhr\service\RoleService.class
+org\javaboy\vhr\utils\HrUtils.class
+org\javaboy\vhr\service\MailSendLogService.class
